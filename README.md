@@ -118,5 +118,8 @@ python spam_email_detector.py
 **Language:** Python
 
 
+## **OUTPUT**
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/e9efa67b-54ef-427b-80e1-5230de57b9bb" />
 
+<img width="961" height="342" alt="Image" src="https://github.com/user-attachments/assets/c93cc48f-4712-467d-943c-6bac4f2783f4" />
 
